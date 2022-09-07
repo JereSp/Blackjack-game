@@ -1,6 +1,6 @@
-## Links
+## Preview
 
-Deploy  [Link](https://blackjack-game-zeta.vercel.app/).
+# You can play on this [Link](https://blackjack-game-zeta.vercel.app/).
 
 ![chrome_IwArUADDV6](https://user-images.githubusercontent.com/89027362/188993930-701471fb-3321-44f5-9f12-4ea39c6028af.png)
 
